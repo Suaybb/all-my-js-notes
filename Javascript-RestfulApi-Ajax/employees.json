@@ -1,0 +1,20 @@
+[
+    {
+        "fname": "Suayb",
+        "lname": "Kiris",
+        "age": 25,
+        "retired": "false"
+    },
+    {
+        "fname": "Elif",
+        "lname": "Kiris",
+        "age": 12,
+        "retired": "false"
+    },
+    {
+        "fname": "Kubra",
+        "lname": "Kiris",
+        "age": 15,
+        "retired": "false"
+    }
+]
